@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+run
+run-server
+.idea
+.vscode
+src/main/resources/assets
+src/generated/resources/.cache
